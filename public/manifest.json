@@ -1,0 +1,6 @@
+{
+  "short_name": "Marketplace",
+  "name": "Blockchain Marketplace",
+  "start_url": ".",
+  "display": "standalone"
+}

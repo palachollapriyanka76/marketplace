@@ -1,0 +1,12 @@
+/* Styles go here */
+body {
+  background-color: #f4f6f8;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+h2 {
+  font-weight: bold;
+}
